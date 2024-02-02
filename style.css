@@ -19,8 +19,11 @@ color: blue;
 body{
     font-family: "Roboto";
 }
-navbar{
+
+    
+navbare{
     width: 100px;
     height: 100px;
     border: flex;
 }
+    
