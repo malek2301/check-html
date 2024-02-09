@@ -1,8 +1,10 @@
-#my_name{
+#nav{
     font-size: 50px;
     text-align: center;
 border: solid;
 color: blue;
+background-color: aquamarine;
+
 }
 #parent{
     width: 700px;
@@ -21,9 +23,15 @@ body{
 }
 
     
-navbare{
-    width: 100px;
+#navbar{
+    width: 1000px;
     height: 100px;
-    border: flex;
+    display: flex; rgb(255, 94, 0); align-items: center; 
+    background-color: aqua;
 }
+
+
+
+
+
     
