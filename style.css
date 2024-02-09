@@ -24,9 +24,9 @@ body{
 
     
 #navbar{
-    width: 1000px;
+    width: 500px;
     height: 100px;
-    display: flex; rgb(255, 94, 0); align-items: center; 
+    display: flex; rgb(255, 94, 0); align-items: center; space-between : 20px ; justify-content: space-between;
     background-color: aqua;
 }
 
